@@ -1,0 +1,7 @@
+C:\mphasis-B2\Day-6\ASSIGNMENT10&11(Day-6)\Assignment-11\SalaryCalculationSystem\SalaryCalculationSystem\bin\Debug\SalaryCalculationSystem.exe.config
+C:\mphasis-B2\Day-6\ASSIGNMENT10&11(Day-6)\Assignment-11\SalaryCalculationSystem\SalaryCalculationSystem\bin\Debug\SalaryCalculationSystem.exe
+C:\mphasis-B2\Day-6\ASSIGNMENT10&11(Day-6)\Assignment-11\SalaryCalculationSystem\SalaryCalculationSystem\bin\Debug\SalaryCalculationSystem.pdb
+C:\mphasis-B2\Day-6\ASSIGNMENT10&11(Day-6)\Assignment-11\SalaryCalculationSystem\SalaryCalculationSystem\obj\Debug\SalaryCalculationSystem.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-6\ASSIGNMENT10&11(Day-6)\Assignment-11\SalaryCalculationSystem\SalaryCalculationSystem\obj\Debug\SalaryCalculationSystem.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-6\ASSIGNMENT10&11(Day-6)\Assignment-11\SalaryCalculationSystem\SalaryCalculationSystem\obj\Debug\SalaryCalculationSystem.exe
+C:\mphasis-B2\Day-6\ASSIGNMENT10&11(Day-6)\Assignment-11\SalaryCalculationSystem\SalaryCalculationSystem\obj\Debug\SalaryCalculationSystem.pdb
